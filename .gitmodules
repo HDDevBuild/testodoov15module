@@ -1,0 +1,4 @@
+[submodule "humanytek/121Corp"]
+	path = humanytek/121Corp
+	url = git@github.com:humanytek/121Corp.git
+	branch = 15.0
